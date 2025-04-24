@@ -1,4 +1,4 @@
-# Aletyx Developer Tools for VS Code
+# Aletyx Automation Design for VS Code
 
 [Aletyx Developer Tools for VS Code](https://www.aletyx.ai/experience/) empowers developers to create, edit, and visualize business processes, decisions, and test scenarios — all within Visual Studio Code.
 
