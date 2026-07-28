@@ -1,0 +1,136 @@
+ALETYX VISUAL STUDIO CODE EXTENSION LICENSE AGREEMENT
+
+Last Updated: March 20, 2026
+
+This License Agreement (the "Extension License") is between Aletyx, Inc., a Delaware corporation ("Aletyx") and the individual or entity installing or using the Extension ("you" or "User"). By installing, copying, or using the Extension, you accept this Extension License. If you are accepting on behalf of an entity, you represent that you have authority to bind that entity.
+
+1. Definitions
+
+1.1 "Extension" means the Aletyx Visual Studio Code extension identified in the Visual Studio Marketplace listing through which you obtained it, including any updates Aletyx makes available through the Marketplace.
+
+1.2 "Aletyx Offerings" means Aletyx software, SaaS, or other offerings that the Extension is designed to work with, as further described in the applicable Aletyx documentation.
+
+1.3 "Free Features" means the features and functionality of the Extension that are available to all Users without a paid Aletyx subscription. Free Features are identified in the Documentation.
+
+1.4 "Premium Features" means the features and functionality of the Extension that require an active, paid subscription to an applicable Aletyx Offering. Premium Features are identified in the Documentation and are gated within the Extension by subscription validation.
+
+1.5 "User Content" means all decision models, business rules, decision tables, process definitions, workflows, configurations, code, and other materials created or modified by User using the Extension.
+
+1.6 "Documentation" means the user guides, README files, help documentation, and other technical materials Aletyx makes available for the Extension.
+
+1.7 "Open Source Components" means third-party software components distributed with the Extension under separate open source license terms, as identified in the Extension's NOTICE, LICENSE, or equivalent files.
+
+2. License Grant
+
+2.1 Free Features. Subject to User's compliance with this Extension License, Aletyx grants User a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the Free Features of the Extension in Visual Studio Code for User's internal business and personal development purposes, in accordance with the Documentation.
+
+2.2 Premium Features. Access to Premium Features requires an active, paid subscription to the applicable Aletyx Offering under a separate agreement between User (or User's organization) and Aletyx (such as the Aletyx General Terms and an Order Form). The commercial terms governing Premium Features, including fees, payment, subscription term, renewal, termination, support, warranty, and liability, are set forth in that separate agreement and not in this Extension License. This Extension License governs only the extension-specific rights, restrictions, and intellectual property terms applicable to Premium Features.
+
+2.3 Scope. The Extension is a developer tool. It may provide editing, validation, authoring, testing, debugging, and connectivity features for use with Aletyx Offerings or compatible open source components. This Extension License does not independently grant any right to access or use any Aletyx Offering.
+
+2.4 Feature Classification. Aletyx may reclassify features between Free Features and Premium Features from time to time. Aletyx will provide reasonable notice before reclassifying a Free Feature as a Premium Feature. Features that were Premium Features may be reclassified as Free Features at Aletyx's discretion without notice.
+
+3. Restrictions
+
+User shall not:
+
+(a) modify, adapt, or create derivative works of the Extension, except as expressly permitted by applicable law;
+
+(b) reverse engineer, decompile, or disassemble the Extension, except to the extent required by applicable law that cannot be waived by contract;
+
+(c) remove or obscure any proprietary notices, labels, or marks in the Extension;
+
+(d) distribute, sublicense, rent, lease, or lend the Extension to any third party, or make it available as part of a service bureau, timesharing, or hosted service offering;
+
+(e) use the Extension for competitive analysis or benchmarking, or to build a product or service that competes with the Extension or any Aletyx Offering;
+
+(f) circumvent any technical limitations, subscription validation mechanisms, or feature gating in the Extension, including any mechanism that restricts access to Premium Features;
+
+(g) access or attempt to access Premium Features without holding a valid subscription to the applicable Aletyx Offering; or
+
+(h) use the Extension in any manner that violates applicable law.
+
+4. Intellectual Property
+
+4.1 Aletyx Ownership. The Extension, including its source code, object code, architecture, user interface, documentation, and all improvements and derivative works thereof, is the proprietary technology of Aletyx and its licensors. All rights not expressly granted in this Extension License are reserved by Aletyx.
+
+4.2 User Content Ownership. User retains all rights in and to User Content, whether created using Free Features or Premium Features. Aletyx claims no ownership rights in User Content. The license granted under Section 2 does not transfer ownership of any User Content to Aletyx.
+
+4.3 Feedback. User may voluntarily provide suggestions, feedback, or recommendations regarding the Extension ("Feedback"). Aletyx may use Feedback for any purpose, including incorporating Feedback into Aletyx products and services, without attribution or compensation. User grants Aletyx a perpetual, irrevocable license to use Feedback for any purpose. Feedback does not include User Content.
+
+4.4 Telemetry. The Extension may collect aggregated, anonymized technical telemetry, including feature utilization metrics, performance indicators, and error logs that are sanitized of User Content. Telemetry does not include User Content, decision logic, business rules, or other substantive materials created or edited by User.
+
+Processing of User Content occurs only when User interacts with Aletyx Offerings through the Extension, and such processing is governed by the applicable Aletyx agreement for those Offerings. Aletyx uses telemetry solely for product improvement and aggregate usage analysis.
+
+4.5 Local Environment. The Extension operates within User's local development environment. Aletyx does not access, monitor, or control User Content stored locally on User's systems except to the extent User elects to transmit such content to Aletyx Offerings through the Extension. User is solely responsible for the security, integrity, and management of all local files, repositories, and development environments in which the Extension is used.
+
+5. Open Source Components
+
+5.1 Separate Licenses. The Extension may incorporate Open Source Components subject to their own license terms (including Apache License 2.0, MIT License, or similar terms). Those license terms govern User's use of the applicable Open Source Components and are available in the Extension's NOTICE, LICENSE, third-party-licenses, or equivalent files distributed with the Extension, or upon request.
+
+5.2 No Conflict. Nothing in this Extension License restricts or limits any rights User has under the applicable open source licenses for those specific components. Conversely, open source licenses applicable to individual components do not extend to the Extension as a whole or to proprietary Aletyx components of the Extension.
+
+5.3 No Impact on User Content. Open Source Components do not affect User's ownership rights in User Content.
+
+6. AI-Assisted Functionality (Extension)
+
+6.1 Assistive Nature. The Extension may include features that assist User in drafting, editing, analyzing, or generating User Content, including through AI-assisted functionality when connected to Aletyx Offerings. Such functionality is designed as a productivity tool and is not a substitute for human judgment, testing, validation, review, or approval.
+
+6.2 No Guarantee of Output. Any content generated, suggested, or transformed through the Extension, including any AI-assisted functionality, may be incomplete, incorrect, inconsistent, or unsuitable for User's intended purpose. Aletyx does not guarantee the correctness, completeness, or fitness for purpose of any such output.
+
+6.3 User Responsibility. User is solely responsible for reviewing, validating, and approving all content created or modified using the Extension before relying on or using such content in any development, testing, operational, or production environment.
+
+6.4 No Delegated Decision-Making. The Extension does not make, approve, or validate business decisions, legal determinations, or regulatory conclusions on User's behalf. Aletyx is not acting as a legal advisor, compliance advisor, or decision-maker through the Extension.
+
+7. Warranties and Disclaimers
+
+7.1 Free Features. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FREE FEATURES ARE PROVIDED "AS IS" AND WITHOUT ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED. ALETYX DISCLAIMS ALL WARRANTIES WITH RESPECT TO FREE FEATURES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE. ALETYX DOES NOT WARRANT THAT FREE FEATURES WILL BE UNINTERRUPTED, SECURE, ERROR-FREE, OR COMPATIBLE WITH ANY PARTICULAR VERSION OF VISUAL STUDIO CODE, ANY ALETYX OFFERING, OR ANY OTHER SOFTWARE. USER IS SOLELY RESPONSIBLE FOR DETERMINING THE SUITABILITY OF FREE FEATURES FOR USER'S PURPOSES AND ASSUMES ALL RISK ASSOCIATED WITH THEIR USE.
+
+7.2 Premium Features. Warranties applicable to Premium Features are governed by the separate agreement under which User subscribes to the applicable Aletyx Offering, including any warranty that the Aletyx Offering will perform materially in accordance with the applicable Documentation. This Extension License does not independently create any warranty obligation with respect to Premium Features. To the extent the separate agreement does not address a warranty matter specific to the Extension, the disclaimers in Section 7.1 apply.
+
+8. Limitation of Liability
+
+8.1 Free Features. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ALETYX OR ITS AFFILIATES, LICENSORS, OR SUPPLIERS BE LIABLE TO USER FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY DAMAGES FOR LOST OR DAMAGED DATA, LOST PROFITS, LOST SAVINGS, OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATING TO USER'S USE OF FREE FEATURES, REGARDLESS OF THE NATURE OF THE CLAIM, WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR OTHER LEGAL THEORY, AND EVEN IF ALETYX HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FREE FEATURES ARE PROVIDED AT NO CHARGE AND THIS EXCLUSION REFLECTS THE ALLOCATION OF RISK ON THAT BASIS.
+
+8.2 Premium Features. Liability arising from or relating to Premium Features is governed by the limitation of liability provisions in the separate agreement under which User subscribes to the applicable Aletyx Offering. This Extension License does not independently establish any liability cap or liability obligation with respect to Premium Features. To the extent the separate agreement does not address a liability matter specific to the Extension, the limitations in Section 8.1 apply.
+
+8.3 ESSENTIAL PURPOSE. THE LIMITATIONS IN THIS SECTION 8 APPLY REGARDLESS OF THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+9. Term and Termination
+
+9.1 Term. This Extension License is effective upon installation or use of the Extension and continues until terminated.
+
+9.2 Termination by User. User may terminate this Extension License at any time by uninstalling the Extension and deleting all copies.
+
+9.3 Termination by Aletyx. Aletyx may terminate this Extension License immediately if User breaches any term of this Extension License. Aletyx may also discontinue the Extension or cease making it available through the Marketplace at any time.
+
+9.4 Effect on Premium Features. If User's subscription to the applicable Aletyx Offering expires or is terminated, User's access to Premium Features will cease. User may continue to use Free Features under this Extension License. Termination of Premium Features access is governed by the terms of the applicable Aletyx Offering agreement.
+
+9.5 Effect of Termination. Upon termination of this Extension License, all license rights granted hereunder immediately cease. User shall uninstall the Extension and delete all copies. User retains all rights in User Content created prior to termination. Sections 3, 4, 5, 6, 7, 8, 9.5, and 10 survive termination.
+
+10. General
+
+10.1 Relationship to Other Aletyx Agreements. If User or User's organization has a separate agreement with Aletyx governing access to any Aletyx Offering (including Aletyx General Terms, an Order Form, or Offering Specific Terms), that agreement governs the applicable Aletyx Offering. For Premium Features, the commercial terms in the applicable Aletyx Offering agreement (including fees, payment, subscription term, renewal, termination, support, warranty, and liability) control. This Extension License governs the extension-specific license grant, restrictions, intellectual property, and other terms set forth herein. In the event of a conflict between this Extension License and a separately executed Aletyx agreement, the separately executed agreement controls.
+
+10.2 Visual Studio Marketplace. User's use of the Visual Studio Marketplace is subject to the Microsoft Marketplace Terms of Use. Aletyx is not responsible for the availability, operation, or policies of the Marketplace.
+
+10.3 Governing Law. This Extension License is governed by and construed in accordance with the laws of the State of New York, without giving effect to any conflicts of laws provision. To the extent permissible, the United Nations Convention on Contracts for the International Sale of Goods will not apply, even if adopted as part of the laws of the State of New York. Any claim, suit, action, or proceeding arising out of or relating to this Extension License will be brought exclusively in the state or federal courts of Wake County, North Carolina, and each party irrevocably submits to the exclusive jurisdiction and venue of such courts.
+
+10.4 Export Compliance. User shall comply with all applicable export and import laws and regulations in connection with its use of the Extension.
+
+10.5 Entire Agreement. This Extension License constitutes the entire agreement between Aletyx and User regarding the Extension, subject to Section 10.1.
+
+10.6 Modifications. Aletyx may update this Extension License from time to time. Updated terms apply upon User's continued use of the Extension after the update is published. If User does not agree to updated terms, User's sole remedy is to uninstall the Extension.
+
+10.7 Assignment. User may not assign this Extension License without Aletyx's prior written consent. Aletyx may assign this Extension License in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+10.8 Severability. If any provision of this Extension License is held invalid or unenforceable, the remaining provisions continue in full force.
+
+10.9 U.S. Government Rights. If the Extension is acquired by or on behalf of a unit of the U.S. Government, it is provided as "commercial computer software" under FAR 12.212 and DFARS 227.7202.
+
+10.10 Notices. Legal notices to Aletyx should be sent to: Legal Department, Aletyx, Inc., 2500 Regency Parkway, Cary, NC 27518, legal@aletyx.com.
+
+Aletyx, Inc.
+2500 Regency Parkway
+Cary, NC 27518
+https://aletyx.ai
