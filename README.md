@@ -11,11 +11,6 @@
   - Edit `.dmn` files for DMN 1.1 and 1.2 using the classic DMN Editor.  
   - Edit `.dmn` files for DMN 1.2–1.5 using the updated DMN Editor.
 
-- **Test Scenarios (SceSim)**  
-  - Create and edit `.scesim` test scenario files.  
-  - Classic editor compatible with DMN 1.1 and 1.2.  
-  - Updated editor supports DMN 1.2, 1.3, 1.4, and 1.5.
-
 - **Keyboard Shortcuts**  
   - Press `Shift + /` to see available keybindings.
 
@@ -44,3 +39,7 @@ Find and install the extension from the [Visual Studio Code Marketplace](https:/
 ## 🔗 Learn More
 
 Visit [aletyx.ai/experience](https://www.aletyx.ai/experience/) for demos, videos, and feature highlights.
+
+## 🗑️ Deprecated/Removed Components
+
+- **Test Scenarios (SceSim)**  
