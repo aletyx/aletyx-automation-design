@@ -1,5 +1,15 @@
 # Changelog
 
+## 10.2.1
+
+- Fixed connectors disappearing behind a Decision Service, including requirements between contained decisions and associations crossing the boundary
+- Fixed a Decision Service hiding the decisions inside it while hovered to reach its context menu
+- Fixed connections snapping to a Decision Service instead of the decision being targeted inside it
+- Fixed the DMN Runner table view not scrolling horizontally when the outputs are wider than the pane
+- The DMN Runner table view now opens evenly split and its divider can be dragged across the full width
+- Renamed the Changes tab to AI Changes, with a new icon, to reflect that it lists AI-proposed edits rather than version-control changes
+- Fixed Red Hat fonts failing to load, which left the canvas rendering in a fallback typeface
+
 ## 10.2.0
 
 Version 10.2.0 expands Aletyx Automation Design into a complete DMN development experience inside Visual Studio Code—from modeling and FEEL authoring to local execution, analysis, change review, and AI-assisted development.
